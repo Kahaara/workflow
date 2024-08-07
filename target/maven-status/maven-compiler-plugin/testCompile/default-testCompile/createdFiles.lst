@@ -1,0 +1,10 @@
+au\com\kahaara\wf\orchestration\rules\RuleSetTest.class
+au\com\kahaara\wf\orchestration\rules\testrules\package-info.class
+au\com\kahaara\wf\orchestration\rules\RuleSetServiceTest.class
+au\com\kahaara\wf\orchestration\rules\RuleTest.class
+au\com\kahaara\wf\orchestration\rules\testrules\TestRule2.class
+au\com\kahaara\wf\orchestration\rules\testrules\TestSubRule1.class
+au\com\kahaara\wf\orchestration\rules\testrules\TestMethodsRule1.class
+au\com\kahaara\wf\orchestration\rules\RulesTest.class
+au\com\kahaara\wf\orchestration\rules\testrules\TestRule1.class
+au\com\kahaara\wf\orchestration\rules\testrules\TestRule3.class
